@@ -3,7 +3,7 @@ Simulation of drugs diffusion through a degradable carrier inside a reservoir wi
 
 This project was initially performed via MATLAB and published during my Ph.D. research:
 Allen, B., et al., Modulating antibiotic release from reservoirs in 3D-printed orthopedic devices to treat periprosthetic joint infection. J Orthop Res, 2020.
-Since publication, this project represents a more efficient simulation using Python.
+This project is a faster, more efficient version using Python that was created since publication.
 
 Brief Biomedical Background:
 Periprosthetic joint infection is a costly debilitating affliction following total joint arthroplasty. Despite a relatively low incidence rate, periprosthetic joint infection is an increasing problem due to a substantial increase in arthroplasty surgeries over time. The current treatment is replacing the primary implant with a temporary bone cement spacer that releases antibiotics over time. However, the spacer is mechanically weak with an ineffective antibiotic release. Alternatively, three‐dimensional (3D)‐printed reservoirs in high‐strength devices have the potential to release antibiotics long term in a controlled manner. 3D‐printed reservoirs were loaded with calcium sulfate (carrier) embedded with gentamicin (drug). In vitro antibiotic release is tuned by varying reservoir parameters, such as channel length, diameter, and quantity. A straightforward model implemented in Python effectively fits and predicts cumulative release to rapidly design devices with a preferred release profile. Overall, this study highlights a novel approach to potentially develop high‐strength joint implants with the long‐term effective release of antibiotics to treat the periprosthetic joint infection.
