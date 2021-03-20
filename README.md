@@ -19,3 +19,5 @@ The simulation revealed a fairly accurate prediction of antibiotic release with 
 
 Notes:
 'Location_pooled_fewerframes' is a gif of antibiotic release from reservoirs with a channel diamter of 10 and length of 9.  It is a 2D representation where the third dimension is compressed so that each pixel represents the total number of antibiotics located in that x,y coordinate regardless of its z position.  The pixels are pooled such that the dimension of the reservoir goes from 90x90 to 30x30 by summing neighboring 3x3 pixels.  Each frame represents every 6 random walks (file size is too large if every random walk is recorded).  In the video, the X-shaped pattern corresponds to the surface erosion occurring at the four channels, resulting in decreased density where the biodedgradable carrier has eroded.
+
+'Location_pooled_fewerframes_linear' is the same as the other gif except the channel diameter is 40 and length is 40.  This is the reservoir geometry that resulted in an approximately linear cumulative release.
